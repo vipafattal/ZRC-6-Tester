@@ -17,5 +17,9 @@ This web page relays on the [Zilpay extension]("https://chrome.google.com/websto
 
 ##### Load New NFT contract which by defualt uses [ZRC-6 sample address](https://devex.zilliqa.com/address/0x12e5c1d65055c09a127d8074c3f3a324569d7d05?network=https://dev-api.zilliqa.com).
 
+## References
+
+Zilliqa standers for NFT [ZRC-6](https://github.com/Zilliqa/ZRC/blob/master/zrcs/zrc-6.md) and [ZRC-1](https://github.com/Zilliqa/ZRC/blob/master/zrcs/zrc-1.md)
+
 
 
